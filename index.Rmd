@@ -8,7 +8,7 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: busaracenter/BusaraServer
-url: "https://github.com/busaracenter/BusaraServer/"
+url: 
 description: "A comprehensive guide on using Busara's internal server"
 ---
 

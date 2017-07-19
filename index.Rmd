@@ -1,0 +1,17 @@
+--- 
+title: "Using Busara's Server"
+author: "Benson Njogu, David Clarance"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: busaracenter/BusaraServer
+url:"https://github.com/busaracenter/BusaraServer/"
+description: "A comprehensive guide on using Busara's internal server"
+---
+
+# Preface {-}
+
+This is the very first part of the book.

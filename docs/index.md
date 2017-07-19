@@ -1,17 +1,17 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "Using Busara's Server"
+author: "Benson Njogu, David Clarance"
+date: "2017-07-19"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: busaracenter/BusaraServer
+url: "https://github.com/busaracenter/BusaraServer/"
+description: "A comprehensive guide on using Busara's internal server"
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+Just a general introduction to Busara.

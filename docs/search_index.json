@@ -1,5 +1,7 @@
 [
-["index.html", "A Minimal Bookdown Book Preface", " A Minimal Bookdown Book Sean Kross 2016-12-09 Preface This is the very first part of the book. "],
-["introduction.html", "Chapter 1 Introduction", " Chapter 1 Introduction This is the first real chapter. "],
-["diving-in.html", "Chapter 2 Diving In", " Chapter 2 Diving In Now let’s talk details. "]
+["index.html", "Using Busara’s Server Preface", " Using Busara’s Server Benson Njogu, David Clarance 2017-07-19 Preface Just a general introduction to Busara. "],
+["introduction-to-the-server.html", "Chapter 1 Introduction to the Server", " Chapter 1 Introduction to the Server This chapter will include all hardware and software specifications of the server. "],
+["acessing-the-server.html", "Chapter 2 Acessing the server", " Chapter 2 Acessing the server This chapter will include specifics on how to access the server. It will contain rules and a recommended directory structure. "],
+["r-on-the-server.html", "Chapter 3 R on the server", " Chapter 3 R on the server In this chapter we will cover instructions specific to using R on the server. "],
+["stata-on-the-server.html", "Chapter 4 STATA on the server", " Chapter 4 STATA on the server In this chapter we will cover how to use STATA on the server. "]
 ]

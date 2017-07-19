@@ -8,10 +8,10 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: busaracenter/BusaraServer
-url:"https://github.com/busaracenter/BusaraServer/"
+url: "https://github.com/busaracenter/BusaraServer/"
 description: "A comprehensive guide on using Busara's internal server"
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+Just a general introduction to Busara.

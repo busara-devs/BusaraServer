@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to the Server
 
-This is the first real chapter.
+This chapter will include all hardware and software specifications of the server.
 

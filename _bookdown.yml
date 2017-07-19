@@ -1,6 +1,6 @@
 book_filename: "A Guide to Using Busara's Server"
 chapter_name: "Chapter "
-repo: 
+repo: https://github.com/busaracenter/BusaraServer/
 output_dir: "docs"
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
 clean: [packages.bib, bookdown.bbl]

@@ -1,5 +1,5 @@
 [
-["index.html", "Using Busara’s Server Preface", " Using Busara’s Server Benson Njogu, David Clarance 2017-07-19 Preface Just a general introduction to Busara. "],
+["index.html", "Using Busara’s Server The Busara Center for Behavioral Economics", " Using Busara’s Server Updated: 2017-07-20 The Busara Center for Behavioral Economics The Busara Center for Behavioral Economics is a behavioral research and advisory firm that works to identify core behavioral biases and structure programs, products and policies around these barriers. Our mission is to work with researchers and organizations to advance and apply behavioral science in pursuit of poverty alleviation. The document outline best practices on using Busara’s server for data storage and analysis. "],
 ["introduction-to-the-server.html", "Chapter 1 Introduction to the Server", " Chapter 1 Introduction to the Server This chapter will include all hardware and software specifications of the server. "],
 ["acessing-the-server.html", "Chapter 2 Acessing the Server", " Chapter 2 Acessing the Server This chapter will include specifics on how to access the server. It will contain rules and a recommended directory structure. "],
 ["r-on-the-server.html", "Chapter 3 R on the Server", " Chapter 3 R on the Server In this chapter we will cover instructions specific to using R on the server. "],

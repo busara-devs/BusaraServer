@@ -1,7 +1,7 @@
 --- 
 title: "Using Busara's Server"
-author: "Benson Njogu, David Clarance"
-date: "`r Sys.Date()`"
+author: " "
+date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -11,7 +11,8 @@ github-repo: busaracenter/BusaraServer
 url: 
 description: "A comprehensive guide on using Busara's internal server"
 ---
+# The Busara Center for Behavioral Economics {-}
 
-# Preface {-}
+The **Busara Center for Behavioral Economics** is a behavioral research and advisory firm that works to identify core behavioral biases and structure programs, products and policies around these barriers. Our mission is to work with researchers and organizations to advance and apply behavioral science in pursuit of poverty alleviation.
 
-Just a general introduction to Busara.
+The document outline best practices on using Busara's server for data storage and analysis.
